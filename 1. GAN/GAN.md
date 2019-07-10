@@ -22,7 +22,7 @@ NN1은 Loss Function으로 **Discriminator**를 사용하고 매개변수를 업
 
 
 
-![](S:\DataScience\Generative Adversarial Networks - The Story So Far\1. GAN - Generative Adversarial Networks\note\GANs.png)
+![](https://github.com/ssibongee/GAN/blob/master/1.%20GAN/GANs.png?raw=true)
 
 
 
